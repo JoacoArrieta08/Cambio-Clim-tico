@@ -9,7 +9,7 @@ Impulsa la economía con empleos en energías renovables.
 Promueve responsabilidad global para cuidar el planeta.
 
 ### Solucion Propuesta
-EcoBot es una solución automatizada diseñada para ayudar a los usuarios de Discord a reducir su huella de carbono y vivir de manera más sostenible. Este bot proporciona información, recomendaciones y recordatorios sobre cómo adoptar hábitos más ecológicos en su vida diaria.
+EcoBot es una solución automatizada diseñada para ayudar a los usuarios de Discord a reducir su huella de carbono y vivir de manera más sostenible. Este bot proporciona información, recomendaciones.
 
 ### Tecnologias Utilizadas
 - discord.py
